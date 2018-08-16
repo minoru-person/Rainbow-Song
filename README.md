@@ -1,2 +1,2 @@
 # Rainbow-Song
-Rainbow song
+Rainbow song in the key of C major.
